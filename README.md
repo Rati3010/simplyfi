@@ -39,7 +39,3 @@ So, in simple terms, the code helps us figure out where your son went on his vac
 
 
 ![Screenshot 2023-09-20 143549](https://github.com/Rati3010/simplyfi/assets/107462328/1a1a01b1-2e09-4b2b-8b57-b04fcdf2b954)
-
-
-
-![Screenshot (132)](https://github.com/Rati3010/simplyfi/assets/107462328/91a57748-3134-46cc-9a06-4cfffa85802d)
